@@ -1,0 +1,19 @@
+{
+  "name": "nodebase",
+  "version": "1.0.0",
+  "description": "Base project with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodebase"
+  },
+  "author": "phfedev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
